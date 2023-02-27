@@ -1,0 +1,90 @@
+ [
+        {
+          "id": "5d388e97081959000a123acf",
+          "title": "Heating"
+        },
+        {
+          "id": "5d3b396e33c48f02b81cd9f3",
+          "title": "Generator"
+        },
+        {
+          "id": "5d473c1e081959000e530190",
+          "title": "Vents"
+        },
+        {
+          "id": "5d484fb3654e7600681d9314",
+          "title": "Security"
+        },
+        {
+          "id": "5d484fba654e7600691aadf7",
+          "title": "Lavatory"
+        },
+        {
+          "id": "5d484fc0654e76006657e0ab",
+          "title": "Stash"
+        },
+        {
+          "id": "5d484fc8654e760065037abf",
+          "title": "Water Collector"
+        },
+        {
+          "id": "5d484fcd654e7668ec2ec322",
+          "title": "Medstation"
+        },
+        {
+          "id": "5d484fd1654e76006732bf2e",
+          "title": "Nutrition Unit"
+        },
+        {
+          "id": "5d484fd6654e76051d3cc791",
+          "title": "Rest Space"
+        },
+        {
+          "id": "5d484fda654e7600681d9315",
+          "title": "Workbench"
+        },
+        {
+          "id": "5d484fdf654e7600691aadf8",
+          "title": "Intelligence Center"
+        },
+        {
+          "id": "5d484fe3654e76006657e0ac",
+          "title": "Shooting Range"
+        },
+        {
+          "id": "5d494a0e5b56502f18c98a02",
+          "title": "Library"
+        },
+        {
+          "id": "5d494a175b56502f18c98a04",
+          "title": "Scav Case"
+        },
+        {
+          "id": "5d494a205b56502f18c98a06",
+          "title": "Illumination"
+        },
+        {
+          "id": "5d494a315b56502f18c98a0a",
+          "title": "Air Filtering Unit"
+        },
+        {
+          "id": "5d494a385b56502f18c98a0c",
+          "title": "Solar Power"
+        },
+        {
+          "id": "5d494a3f5b56502f18c98a0e",
+          "title": "Booze Generator"
+        },
+        {
+          "id": "5d494a445b56502f18c98a10",
+          "title": "Bitcoin Farm"
+        },
+        {
+          "id": "6377a9b9a93bde8fa30eb79a",
+          "title": "Gym"
+        },
+        {
+          "id": "637b39f02e873739ec490215",
+          "title": "Defective Wall"
+        }
+      ]
